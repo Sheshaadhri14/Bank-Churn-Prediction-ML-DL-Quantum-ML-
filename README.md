@@ -26,7 +26,7 @@ Customer churn costs banks billions annually. This project builds and **benchmar
 | Random Forest | 88% | 0.91 | Strong classical baseline |
 | XGBoost | **94%** | **0.96** | Best classical model |
 | Deep Neural Network | 91% | 0.93 | 4-layer feedforward |
-| Quantum-Classical Hybrid | ~72% | 0.74 | Proof-of-concept on subset |
+| Quantum-Classical Hybrid | **92%** | **0.92** | Proof-of-concept on subset |
 
 > **Key finding:** XGBoost outperforms DNN on this tabular dataset. Quantum ML shows promise but requires larger qubit counts to be competitive — a hardware limitation, not a model limitation.
 
